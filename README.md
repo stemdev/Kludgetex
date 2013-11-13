@@ -1,4 +1,4 @@
 pytex
 =====
 
-Python scripts that ameliorate LaTeX tedium.
+Python kludges that ameliorate LaTeX tedium.
